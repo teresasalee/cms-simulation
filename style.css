@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+  margin-top: 10px;
+}
+
+input, select {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+button {
+  margin-top: 10px;
+}
